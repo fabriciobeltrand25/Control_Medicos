@@ -14,7 +14,7 @@ En Windows, abre CMD y escribe `ipconfig`, busca "IPv4 Address" (algo como
 192.168.x.x). Esa es la IP que va en `ConfigServidor.java` del proyecto Android:
 
 ```
-http://TU_IP/control_pacientes_backend/
+http://LA IP DELA LAPTOP/control_pacientes_backend/
 ```
 
 El celular y la laptop deben estar conectados a la MISMA red WiFi.
